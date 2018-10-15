@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 7
 
-**Author(s):** **CHANGEME**
+**Author(s):** Morgan Holve
 
 ## Specification
 
@@ -17,7 +17,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+Having some example code while having us complete other code was awesome. Also, having example code because numpy is completely different and much of its functions are hidden behind attributes and stuff so you can't actually see it do stuff. Also, working in a psuedogroup was nice.
 
 **CHANGEME**
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Morgan Holve
